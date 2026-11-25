@@ -1,0 +1,251 @@
+customer_id,customer_segment,city_of_residence,preferred_locality,preferred_bhk,budget_min_lakhs,budget_max_lakhs,lead_source,purchased_product_id,total_spend_inr,inquiries_count,site_visits_completed,conversion_status,signup_date
+CUST-5001,NRI Investor,San Jose,Koramangala,3,150,380,LinkedIn,PROD-105,11997,5,5,Active Lead,2026-01-08
+CUST-5002,NRI Investor,Singapore,HSR Layout,3,150,380,Organic Search,PROD-105,7998,15,4,Closed Won,2026-02-12
+CUST-5003,Luxury Upgrader,Bengaluru,Jayanagar,3,220,550,Property Expo,PROD-104,4497,2,3,Nurturing,2026-07-16
+CUST-5004,First-Time Homebuyer,Bengaluru,Sarjapur Road,3,65,130,Referral,PROD-107,75000,16,3,Nurturing,2026-08-09
+CUST-5005,First-Time Homebuyer,Bengaluru,Marathahalli,2,65,130,Instagram Ads,PROD-105,11997,16,6,Closed Won,2026-07-15
+CUST-5006,Luxury Upgrader,Bengaluru,Jayanagar,3,220,550,Property Expo,PROD-109,299,11,2,Closed Won,2026-09-17
+CUST-5007,Luxury Upgrader,Bengaluru,Marathahalli,3,220,550,Referral,PROD-109,598,2,5,Dormant,2026-05-29
+CUST-5008,First-Time Homebuyer,Bengaluru,Electronic City,2,65,130,Organic Search,PROD-105,11997,3,0,Active Lead,2026-02-18
+CUST-5009,Luxury Upgrader,Bengaluru,Yelahanka,5,220,550,Organic Search,PROD-109,299,15,6,Active Lead,2026-09-16
+CUST-5010,Local Rental Investor,Bengaluru,Sarjapur Road,3,75,160,Property Expo,PROD-111,12998,11,4,Active Lead,2026-03-06
+CUST-5011,Local Rental Investor,Bengaluru,Malleshwaram,2,75,160,Instagram Ads,PROD-110,17997,12,0,Closed Won,2026-04-15
+CUST-5012,NRI Investor,San Jose,Malleshwaram,4,150,380,Property Expo,PROD-107,75000,2,1,Dormant,2026-03-13
+CUST-5013,Channel Partner / Broker,Bengaluru,Malleshwaram,4,80,400,Property Expo,PROD-105,3999,11,3,Closed Won,2026-05-26
+CUST-5014,First-Time Homebuyer,Bengaluru,Indiranagar,3,65,130,Referral,PROD-109,299,7,2,Closed Won,2026-08-22
+CUST-5015,First-Time Homebuyer,Bengaluru,Whitefield,2,65,130,LinkedIn,PROD-103,23997,3,2,Closed Won,2026-05-23
+CUST-5016,Luxury Upgrader,Bengaluru,Malleshwaram,5,220,550,Referral,PROD-105,3999,9,0,Closed Won,2026-04-30
+CUST-5017,NRI Investor,Singapore,Yelahanka,3,150,380,Property Expo,PROD-110,11998,12,2,Dormant,2026-02-13
+CUST-5018,Local Rental Investor,Bengaluru,Indiranagar,2,75,160,Referral,PROD-104,2998,16,1,Dormant,2026-02-04
+CUST-5019,Channel Partner / Broker,Bengaluru,Koramangala,4,80,400,Referral,PROD-105,7998,8,5,Nurturing,2026-06-15
+CUST-5020,First-Time Homebuyer,Bengaluru,Yelahanka,2,65,130,Referral,PROD-103,7999,10,6,Closed Won,2026-03-08
+CUST-5021,First-Time Homebuyer,Bengaluru,Malleshwaram,2,65,130,Referral,PROD-101,998,5,6,Active Lead,2026-02-12
+CUST-5022,First-Time Homebuyer,Bengaluru,Whitefield,2,65,130,Referral,PROD-103,7999,5,6,Active Lead,2026-10-27
+CUST-5023,First-Time Homebuyer,Bengaluru,Whitefield,2,65,130,Referral,PROD-111,6499,17,1,Dormant,2026-08-24
+CUST-5024,Channel Partner / Broker,Bengaluru,Bellandur,4,80,400,Referral,PROD-101,499,10,5,Active Lead,2026-08-02
+CUST-5025,Local Rental Investor,Bengaluru,Marathahalli,3,75,160,LinkedIn,PROD-106,75000,5,1,Closed Won,2026-09-07
+CUST-5026,Luxury Upgrader,Bengaluru,Koramangala,5,220,550,Organic Search,PROD-108,44997,5,0,Nurturing,2026-10-14
+CUST-5027,Local Rental Investor,Bengaluru,Bellandur,3,75,160,Organic Search,PROD-103,7999,11,4,Active Lead,2026-03-15
+CUST-5028,First-Time Homebuyer,Bengaluru,HSR Layout,2,65,130,Referral,PROD-107,75000,11,4,Nurturing,2026-10-18
+CUST-5029,NRI Investor,Singapore,Indiranagar,4,150,380,Referral,PROD-109,598,5,2,Dormant,2026-01-02
+CUST-5030,Local Rental Investor,Bengaluru,Hebbal,3,75,160,Instagram Ads,PROD-111,12998,4,5,Active Lead,2026-02-16
+CUST-5031,First-Time Homebuyer,Bengaluru,Bellandur,2,65,130,Instagram Ads,PROD-104,2998,1,4,Active Lead,2026-02-15
+CUST-5032,NRI Investor,London,Electronic City,4,150,380,Referral,PROD-111,19497,6,4,Active Lead,2026-09-18
+CUST-5033,First-Time Homebuyer,Bengaluru,Sarjapur Road,3,65,130,Referral,PROD-110,17997,13,4,Nurturing,2026-10-06
+CUST-5034,NRI Investor,Singapore,Koramangala,3,150,380,Instagram Ads,PROD-103,7999,16,0,Closed Won,2026-09-07
+CUST-5035,Local Rental Investor,Bengaluru,HSR Layout,2,75,160,Instagram Ads,PROD-108,44997,15,1,Active Lead,2026-04-03
+CUST-5036,Luxury Upgrader,Bengaluru,Bellandur,4,220,550,Instagram Ads,PROD-107,75000,14,3,Closed Won,2026-05-13
+CUST-5037,NRI Investor,Singapore,Indiranagar,3,150,380,LinkedIn,PROD-107,75000,14,3,Nurturing,2026-10-27
+CUST-5038,First-Time Homebuyer,Bengaluru,HSR Layout,2,65,130,Property Expo,PROD-103,23997,6,6,Dormant,2026-07-22
+CUST-5039,NRI Investor,Singapore,Hebbal,4,150,380,LinkedIn,PROD-105,11997,6,5,Nurturing,2026-04-13
+CUST-5040,First-Time Homebuyer,Bengaluru,Electronic City,3,65,130,Organic Search,PROD-105,3999,13,1,Nurturing,2026-05-05
+CUST-5041,Luxury Upgrader,Bengaluru,HSR Layout,4,220,550,Instagram Ads,PROD-103,7999,10,4,Closed Won,2026-01-13
+CUST-5042,First-Time Homebuyer,Bengaluru,Jayanagar,3,65,130,Property Expo,PROD-108,29998,14,0,Closed Won,2026-09-08
+CUST-5043,Luxury Upgrader,Bengaluru,Sarjapur Road,4,220,550,Property Expo,PROD-111,12998,8,2,Closed Won,2026-06-06
+CUST-5044,First-Time Homebuyer,Bengaluru,Koramangala,3,65,130,Property Expo,PROD-102,4998,11,1,Active Lead,2026-08-27
+CUST-5045,First-Time Homebuyer,Bengaluru,Whitefield,3,65,130,Organic Search,PROD-109,299,15,3,Nurturing,2026-08-18
+CUST-5046,First-Time Homebuyer,Bengaluru,Jayanagar,2,65,130,Referral,PROD-108,14999,2,2,Dormant,2026-02-01
+CUST-5047,First-Time Homebuyer,Bengaluru,HSR Layout,2,65,130,Organic Search,PROD-109,598,12,0,Active Lead,2026-05-06
+CUST-5048,Luxury Upgrader,Bengaluru,HSR Layout,4,220,550,Property Expo,PROD-111,19497,12,0,Active Lead,2026-02-19
+CUST-5049,Local Rental Investor,Bengaluru,Sarjapur Road,1,75,160,Instagram Ads,PROD-106,75000,8,5,Closed Won,2026-08-05
+CUST-5050,Channel Partner / Broker,Bengaluru,Bellandur,2,80,400,Referral,PROD-103,23997,5,0,Nurturing,2026-06-15
+CUST-5051,Local Rental Investor,Bengaluru,Malleshwaram,2,75,160,Organic Search,PROD-106,50000,11,3,Closed Won,2026-04-13
+CUST-5052,First-Time Homebuyer,Bengaluru,Hebbal,2,65,130,Property Expo,PROD-104,4497,8,0,Active Lead,2026-08-16
+CUST-5053,NRI Investor,Singapore,Koramangala,3,150,380,Property Expo,PROD-107,150000,5,6,Dormant,2026-03-25
+CUST-5054,First-Time Homebuyer,Bengaluru,Yelahanka,2,65,130,Property Expo,PROD-107,75000,4,1,Nurturing,2026-05-13
+CUST-5055,First-Time Homebuyer,Bengaluru,Malleshwaram,3,65,130,Organic Search,PROD-111,12998,17,4,Closed Won,2026-06-15
+CUST-5056,NRI Investor,London,Yelahanka,3,150,380,Property Expo,PROD-101,1497,1,0,Nurturing,2026-09-09
+CUST-5057,Local Rental Investor,Bengaluru,Yelahanka,2,75,160,Organic Search,PROD-111,6499,16,1,Nurturing,2026-09-13
+CUST-5058,First-Time Homebuyer,Bengaluru,Koramangala,3,65,130,Property Expo,PROD-102,2499,3,0,Nurturing,2026-03-05
+CUST-5059,First-Time Homebuyer,Bengaluru,Yelahanka,2,65,130,Property Expo,PROD-105,3999,17,4,Nurturing,2026-03-20
+CUST-5060,First-Time Homebuyer,Bengaluru,Whitefield,2,65,130,Organic Search,PROD-102,7497,17,0,Nurturing,2026-03-10
+CUST-5061,Local Rental Investor,Bengaluru,Hebbal,3,75,160,Organic Search,PROD-101,998,1,0,Active Lead,2026-07-06
+CUST-5062,Local Rental Investor,Bengaluru,Koramangala,2,75,160,LinkedIn,PROD-103,15998,4,3,Active Lead,2026-08-07
+CUST-5063,NRI Investor,Singapore,HSR Layout,4,150,380,Property Expo,PROD-107,150000,9,4,Closed Won,2026-08-25
+CUST-5064,NRI Investor,San Jose,Hebbal,4,150,380,Property Expo,PROD-110,5999,2,3,Nurturing,2026-01-26
+CUST-5065,NRI Investor,Singapore,Bellandur,4,150,380,Instagram Ads,PROD-102,7497,11,1,Nurturing,2026-06-17
+CUST-5066,Local Rental Investor,Bengaluru,Whitefield,2,75,160,LinkedIn,PROD-106,50000,15,4,Nurturing,2026-03-21
+CUST-5067,NRI Investor,San Jose,Yelahanka,4,150,380,Referral,PROD-106,50000,9,6,Dormant,2026-06-14
+CUST-5068,First-Time Homebuyer,Bengaluru,Koramangala,2,65,130,Instagram Ads,PROD-107,225000,12,6,Active Lead,2026-05-21
+CUST-5069,First-Time Homebuyer,Bengaluru,Indiranagar,3,65,130,Property Expo,PROD-110,5999,13,5,Dormant,2026-08-31
+CUST-5070,Local Rental Investor,Bengaluru,Bellandur,1,75,160,Instagram Ads,PROD-106,75000,8,6,Active Lead,2026-04-26
+CUST-5071,First-Time Homebuyer,Bengaluru,Marathahalli,3,65,130,Referral,PROD-106,25000,6,3,Active Lead,2026-06-16
+CUST-5072,Local Rental Investor,Bengaluru,Hebbal,2,75,160,Organic Search,PROD-108,14999,1,5,Active Lead,2026-04-19
+CUST-5073,First-Time Homebuyer,Bengaluru,Indiranagar,2,65,130,LinkedIn,PROD-107,225000,1,2,Closed Won,2026-03-03
+CUST-5074,NRI Investor,San Jose,Marathahalli,4,150,380,Organic Search,PROD-102,4998,13,0,Dormant,2026-09-24
+CUST-5075,NRI Investor,Singapore,Marathahalli,4,150,380,Organic Search,PROD-107,75000,4,4,Nurturing,2026-05-18
+CUST-5076,Luxury Upgrader,Bengaluru,Whitefield,4,220,550,Instagram Ads,PROD-107,225000,8,3,Closed Won,2026-03-10
+CUST-5077,First-Time Homebuyer,Bengaluru,Electronic City,3,65,130,Organic Search,PROD-103,7999,2,1,Nurturing,2026-08-24
+CUST-5078,Local Rental Investor,Bengaluru,HSR Layout,2,75,160,Property Expo,PROD-111,6499,15,4,Active Lead,2026-05-04
+CUST-5079,NRI Investor,London,Jayanagar,3,150,380,Organic Search,PROD-103,23997,3,4,Active Lead,2026-04-17
+CUST-5080,First-Time Homebuyer,Bengaluru,Electronic City,2,65,130,Referral,PROD-105,3999,11,0,Active Lead,2026-01-03
+CUST-5081,Local Rental Investor,Bengaluru,Koramangala,3,75,160,Organic Search,PROD-103,7999,9,5,Active Lead,2026-02-03
+CUST-5082,NRI Investor,San Jose,Sarjapur Road,4,150,380,Property Expo,PROD-105,3999,15,3,Active Lead,2026-06-29
+CUST-5083,Luxury Upgrader,Bengaluru,Jayanagar,5,220,550,Referral,PROD-111,6499,16,2,Closed Won,2026-03-15
+CUST-5084,Channel Partner / Broker,Bengaluru,Yelahanka,3,80,400,LinkedIn,PROD-108,14999,14,1,Nurturing,2026-03-27
+CUST-5085,Luxury Upgrader,Bengaluru,Bellandur,3,220,550,Organic Search,PROD-110,5999,13,2,Nurturing,2026-04-22
+CUST-5086,First-Time Homebuyer,Bengaluru,Koramangala,3,65,130,Property Expo,PROD-108,44997,10,2,Closed Won,2026-07-24
+CUST-5087,First-Time Homebuyer,Bengaluru,Hebbal,2,65,130,Referral,PROD-111,12998,6,3,Active Lead,2026-09-16
+CUST-5088,First-Time Homebuyer,Bengaluru,Bellandur,2,65,130,Instagram Ads,PROD-103,23997,11,5,Nurturing,2026-06-04
+CUST-5089,Local Rental Investor,Bengaluru,Indiranagar,2,75,160,Referral,PROD-103,7999,14,1,Closed Won,2026-05-05
+CUST-5090,NRI Investor,Singapore,Electronic City,3,150,380,Referral,PROD-111,19497,15,3,Active Lead,2026-01-30
+CUST-5091,First-Time Homebuyer,Bengaluru,HSR Layout,2,65,130,Organic Search,PROD-111,19497,6,3,Closed Won,2026-01-15
+CUST-5092,NRI Investor,Singapore,Malleshwaram,4,150,380,LinkedIn,PROD-101,998,16,4,Dormant,2026-01-14
+CUST-5093,First-Time Homebuyer,Bengaluru,Sarjapur Road,2,65,130,Property Expo,PROD-107,225000,9,3,Active Lead,2026-09-05
+CUST-5094,First-Time Homebuyer,Bengaluru,HSR Layout,2,65,130,Property Expo,PROD-104,4497,16,1,Nurturing,2026-01-04
+CUST-5095,Luxury Upgrader,Bengaluru,Malleshwaram,4,220,550,Property Expo,PROD-102,2499,14,6,Closed Won,2026-10-04
+CUST-5096,NRI Investor,London,Hebbal,4,150,380,LinkedIn,PROD-106,75000,12,3,Active Lead,2026-06-08
+CUST-5097,First-Time Homebuyer,Bengaluru,Marathahalli,2,65,130,Instagram Ads,PROD-105,3999,12,5,Active Lead,2026-04-17
+CUST-5098,First-Time Homebuyer,Bengaluru,Electronic City,2,65,130,Organic Search,PROD-111,6499,10,3,Nurturing,2026-08-23
+CUST-5099,Luxury Upgrader,Bengaluru,Whitefield,5,220,550,Referral,PROD-111,6499,16,1,Dormant,2026-08-07
+CUST-5100,First-Time Homebuyer,Bengaluru,Hebbal,3,65,130,Organic Search,PROD-102,4998,5,4,Nurturing,2026-04-27
+CUST-5101,Local Rental Investor,Bengaluru,Hebbal,2,75,160,Property Expo,PROD-104,2998,9,2,Active Lead,2026-06-20
+CUST-5102,Local Rental Investor,Bengaluru,Whitefield,2,75,160,LinkedIn,PROD-106,75000,11,1,Active Lead,2026-02-24
+CUST-5103,First-Time Homebuyer,Bengaluru,Bellandur,3,65,130,Referral,PROD-109,598,12,5,Dormant,2026-10-25
+CUST-5104,NRI Investor,Singapore,Koramangala,3,150,380,Referral,PROD-105,11997,15,1,Nurturing,2026-04-16
+CUST-5105,Local Rental Investor,Bengaluru,Yelahanka,1,75,160,Property Expo,PROD-108,44997,8,6,Active Lead,2026-02-12
+CUST-5106,Local Rental Investor,Bengaluru,Marathahalli,3,75,160,Organic Search,PROD-104,2998,9,6,Nurturing,2026-07-18
+CUST-5107,NRI Investor,San Jose,HSR Layout,4,150,380,Instagram Ads,PROD-103,7999,7,4,Dormant,2026-04-11
+CUST-5108,Local Rental Investor,Bengaluru,Jayanagar,2,75,160,Organic Search,PROD-106,25000,17,3,Closed Won,2026-06-25
+CUST-5109,NRI Investor,Dubai,Koramangala,3,150,380,Instagram Ads,PROD-101,499,17,4,Active Lead,2026-08-18
+CUST-5110,First-Time Homebuyer,Bengaluru,Hebbal,3,65,130,Organic Search,PROD-101,499,7,4,Dormant,2026-09-26
+CUST-5111,Local Rental Investor,Bengaluru,Hebbal,3,75,160,Property Expo,PROD-107,225000,7,1,Nurturing,2026-09-26
+CUST-5112,Channel Partner / Broker,Bengaluru,Electronic City,4,80,400,Referral,PROD-105,11997,2,4,Nurturing,2026-02-26
+CUST-5113,Local Rental Investor,Bengaluru,Hebbal,2,75,160,Property Expo,PROD-106,75000,16,3,Active Lead,2026-04-22
+CUST-5114,First-Time Homebuyer,Bengaluru,Indiranagar,3,65,130,Referral,PROD-107,75000,15,3,Dormant,2026-06-03
+CUST-5115,First-Time Homebuyer,Bengaluru,HSR Layout,3,65,130,LinkedIn,PROD-108,44997,10,0,Nurturing,2026-08-07
+CUST-5116,Local Rental Investor,Bengaluru,Indiranagar,2,75,160,Referral,PROD-105,3999,4,3,Closed Won,2026-01-09
+CUST-5117,Local Rental Investor,Bengaluru,HSR Layout,2,75,160,Property Expo,PROD-107,225000,16,5,Active Lead,2026-08-18
+CUST-5118,Local Rental Investor,Bengaluru,Electronic City,3,75,160,Organic Search,PROD-103,7999,13,1,Active Lead,2026-06-01
+CUST-5119,First-Time Homebuyer,Bengaluru,Jayanagar,3,65,130,Organic Search,PROD-103,7999,7,3,Active Lead,2026-10-23
+CUST-5120,Local Rental Investor,Bengaluru,HSR Layout,1,75,160,Property Expo,PROD-105,3999,5,0,Closed Won,2026-04-17
+CUST-5121,Channel Partner / Broker,Bengaluru,Electronic City,2,80,400,Instagram Ads,PROD-111,6499,16,5,Dormant,2026-06-14
+CUST-5122,Channel Partner / Broker,Bengaluru,Yelahanka,3,80,400,Organic Search,PROD-102,2499,3,4,Active Lead,2026-06-20
+CUST-5123,NRI Investor,San Jose,Indiranagar,4,150,380,LinkedIn,PROD-101,1497,10,4,Nurturing,2026-04-26
+CUST-5124,First-Time Homebuyer,Bengaluru,Bellandur,3,65,130,Property Expo,PROD-111,6499,13,3,Dormant,2026-01-02
+CUST-5125,Channel Partner / Broker,Bengaluru,Jayanagar,3,80,400,Instagram Ads,PROD-107,75000,13,4,Nurturing,2026-10-16
+CUST-5126,NRI Investor,Dubai,Jayanagar,4,150,380,LinkedIn,PROD-109,299,4,6,Active Lead,2026-06-21
+CUST-5127,First-Time Homebuyer,Bengaluru,Bellandur,2,65,130,Instagram Ads,PROD-107,75000,12,2,Active Lead,2026-05-26
+CUST-5128,First-Time Homebuyer,Bengaluru,Indiranagar,2,65,130,Instagram Ads,PROD-101,1497,10,4,Nurturing,2026-03-20
+CUST-5129,Luxury Upgrader,Bengaluru,Whitefield,4,220,550,LinkedIn,PROD-105,11997,1,1,Dormant,2026-06-17
+CUST-5130,NRI Investor,London,Indiranagar,4,150,380,Organic Search,PROD-107,150000,12,5,Active Lead,2026-05-26
+CUST-5131,First-Time Homebuyer,Bengaluru,Malleshwaram,2,65,130,LinkedIn,PROD-105,3999,11,4,Active Lead,2026-03-01
+CUST-5132,First-Time Homebuyer,Bengaluru,Hebbal,2,65,130,Property Expo,PROD-108,14999,2,5,Nurturing,2026-08-25
+CUST-5133,First-Time Homebuyer,Bengaluru,Malleshwaram,2,65,130,LinkedIn,PROD-110,5999,12,0,Closed Won,2026-10-07
+CUST-5134,First-Time Homebuyer,Bengaluru,Indiranagar,2,65,130,Property Expo,PROD-109,598,4,2,Active Lead,2026-06-16
+CUST-5135,Local Rental Investor,Bengaluru,Whitefield,2,75,160,Referral,PROD-105,7998,11,2,Dormant,2026-03-03
+CUST-5136,First-Time Homebuyer,Bengaluru,Malleshwaram,3,65,130,Referral,PROD-107,75000,15,2,Closed Won,2026-01-13
+CUST-5137,NRI Investor,San Jose,Koramangala,4,150,380,LinkedIn,PROD-106,75000,13,2,Nurturing,2026-03-07
+CUST-5138,Local Rental Investor,Bengaluru,Yelahanka,2,75,160,LinkedIn,PROD-105,3999,13,1,Closed Won,2026-06-27
+CUST-5139,Luxury Upgrader,Bengaluru,Sarjapur Road,4,220,550,Instagram Ads,PROD-110,17997,6,1,Nurturing,2026-02-04
+CUST-5140,NRI Investor,Dubai,Yelahanka,3,150,380,Organic Search,PROD-105,11997,12,5,Closed Won,2026-04-27
+CUST-5141,Channel Partner / Broker,Bengaluru,Malleshwaram,2,80,400,Instagram Ads,PROD-107,150000,2,5,Nurturing,2026-02-05
+CUST-5142,First-Time Homebuyer,Bengaluru,Jayanagar,2,65,130,Instagram Ads,PROD-101,499,12,2,Nurturing,2026-04-03
+CUST-5143,Local Rental Investor,Bengaluru,Hebbal,2,75,160,Instagram Ads,PROD-111,6499,4,1,Dormant,2026-10-10
+CUST-5144,NRI Investor,Singapore,Indiranagar,3,150,380,Organic Search,PROD-101,499,13,2,Closed Won,2026-08-12
+CUST-5145,First-Time Homebuyer,Bengaluru,Koramangala,2,65,130,Organic Search,PROD-108,29998,14,2,Closed Won,2026-08-01
+CUST-5146,First-Time Homebuyer,Bengaluru,Koramangala,2,65,130,LinkedIn,PROD-104,2998,1,6,Nurturing,2026-04-26
+CUST-5147,Local Rental Investor,Bengaluru,Marathahalli,3,75,160,Referral,PROD-106,25000,14,1,Closed Won,2026-01-18
+CUST-5148,First-Time Homebuyer,Bengaluru,Whitefield,2,65,130,Instagram Ads,PROD-108,14999,5,5,Active Lead,2026-02-05
+CUST-5149,First-Time Homebuyer,Bengaluru,Jayanagar,3,65,130,Instagram Ads,PROD-110,17997,5,5,Active Lead,2026-09-09
+CUST-5150,Luxury Upgrader,Bengaluru,Jayanagar,4,220,550,Referral,PROD-104,2998,3,6,Closed Won,2026-08-17
+CUST-5151,Local Rental Investor,Bengaluru,Indiranagar,2,75,160,Property Expo,PROD-111,6499,3,5,Nurturing,2026-02-07
+CUST-5152,First-Time Homebuyer,Bengaluru,Bellandur,2,65,130,Instagram Ads,PROD-105,11997,14,6,Nurturing,2026-07-18
+CUST-5153,Luxury Upgrader,Bengaluru,Indiranagar,3,220,550,Instagram Ads,PROD-103,23997,3,3,Dormant,2026-09-14
+CUST-5154,First-Time Homebuyer,Bengaluru,Jayanagar,2,65,130,LinkedIn,PROD-109,598,9,3,Nurturing,2026-09-24
+CUST-5155,Luxury Upgrader,Bengaluru,Hebbal,4,220,550,LinkedIn,PROD-107,225000,17,2,Active Lead,2026-04-27
+CUST-5156,NRI Investor,Singapore,Koramangala,3,150,380,Referral,PROD-102,2499,4,0,Dormant,2026-04-19
+CUST-5157,First-Time Homebuyer,Bengaluru,Indiranagar,3,65,130,Property Expo,PROD-104,2998,8,0,Active Lead,2026-05-17
+CUST-5158,Luxury Upgrader,Bengaluru,Indiranagar,3,220,550,Referral,PROD-109,299,1,3,Nurturing,2026-03-04
+CUST-5159,First-Time Homebuyer,Bengaluru,Whitefield,3,65,130,Referral,PROD-108,14999,14,0,Nurturing,2026-07-21
+CUST-5160,First-Time Homebuyer,Bengaluru,Yelahanka,2,65,130,Instagram Ads,PROD-104,2998,4,5,Active Lead,2026-08-12
+CUST-5161,Luxury Upgrader,Bengaluru,Malleshwaram,5,220,550,Referral,PROD-107,75000,3,1,Closed Won,2026-08-16
+CUST-5162,Local Rental Investor,Bengaluru,Malleshwaram,3,75,160,LinkedIn,PROD-106,25000,12,0,Nurturing,2026-08-28
+CUST-5163,First-Time Homebuyer,Bengaluru,Yelahanka,3,65,130,Instagram Ads,PROD-105,3999,4,5,Active Lead,2026-03-27
+CUST-5164,First-Time Homebuyer,Bengaluru,Koramangala,3,65,130,Instagram Ads,PROD-104,1499,12,3,Closed Won,2026-03-22
+CUST-5165,First-Time Homebuyer,Bengaluru,Yelahanka,2,65,130,Referral,PROD-102,4998,9,5,Closed Won,2026-05-20
+CUST-5166,Local Rental Investor,Bengaluru,Hebbal,3,75,160,Property Expo,PROD-102,4998,6,4,Nurturing,2026-09-19
+CUST-5167,Luxury Upgrader,Bengaluru,Yelahanka,3,220,550,Property Expo,PROD-105,3999,8,2,Active Lead,2026-01-18
+CUST-5168,Local Rental Investor,Bengaluru,Hebbal,2,75,160,Referral,PROD-102,2499,11,0,Nurturing,2026-06-07
+CUST-5169,NRI Investor,San Jose,Indiranagar,3,150,380,LinkedIn,PROD-106,75000,13,1,Active Lead,2026-03-04
+CUST-5170,Local Rental Investor,Bengaluru,Bellandur,1,75,160,LinkedIn,PROD-102,7497,16,3,Active Lead,2026-08-09
+CUST-5171,Local Rental Investor,Bengaluru,Bellandur,3,75,160,Organic Search,PROD-104,2998,14,2,Closed Won,2026-05-02
+CUST-5172,Channel Partner / Broker,Bengaluru,Hebbal,4,80,400,Organic Search,PROD-110,5999,16,5,Active Lead,2026-02-25
+CUST-5173,First-Time Homebuyer,Bengaluru,Hebbal,3,65,130,Instagram Ads,PROD-109,299,14,5,Dormant,2026-09-09
+CUST-5174,First-Time Homebuyer,Bengaluru,Indiranagar,2,65,130,Organic Search,PROD-105,11997,1,4,Nurturing,2026-08-15
+CUST-5175,Local Rental Investor,Bengaluru,Indiranagar,3,75,160,Referral,PROD-109,897,1,0,Dormant,2026-07-29
+CUST-5176,First-Time Homebuyer,Bengaluru,Yelahanka,2,65,130,Property Expo,PROD-109,897,7,4,Nurturing,2026-10-15
+CUST-5177,First-Time Homebuyer,Bengaluru,HSR Layout,2,65,130,Property Expo,PROD-104,4497,2,3,Closed Won,2026-09-06
+CUST-5178,NRI Investor,Singapore,Malleshwaram,3,150,380,Instagram Ads,PROD-110,17997,11,1,Nurturing,2026-10-24
+CUST-5179,First-Time Homebuyer,Bengaluru,Indiranagar,2,65,130,Instagram Ads,PROD-106,25000,6,3,Nurturing,2026-04-24
+CUST-5180,First-Time Homebuyer,Bengaluru,Marathahalli,3,65,130,Organic Search,PROD-107,75000,7,3,Closed Won,2026-06-11
+CUST-5181,Luxury Upgrader,Bengaluru,Yelahanka,3,220,550,Referral,PROD-108,29998,7,0,Dormant,2026-06-25
+CUST-5182,First-Time Homebuyer,Bengaluru,Yelahanka,2,65,130,Instagram Ads,PROD-101,998,6,3,Nurturing,2026-01-14
+CUST-5183,Luxury Upgrader,Bengaluru,Indiranagar,4,220,550,Referral,PROD-108,14999,5,5,Nurturing,2026-03-24
+CUST-5184,Luxury Upgrader,Bengaluru,Jayanagar,5,220,550,Referral,PROD-103,23997,16,0,Dormant,2026-05-12
+CUST-5185,Local Rental Investor,Bengaluru,Marathahalli,1,75,160,Property Expo,PROD-111,6499,14,5,Nurturing,2026-05-16
+CUST-5186,Channel Partner / Broker,Bengaluru,Bellandur,4,80,400,LinkedIn,PROD-102,4998,16,0,Active Lead,2026-07-23
+CUST-5187,Local Rental Investor,Bengaluru,Hebbal,2,75,160,LinkedIn,PROD-101,1497,2,4,Dormant,2026-10-09
+CUST-5188,First-Time Homebuyer,Bengaluru,Marathahalli,2,65,130,Property Expo,PROD-104,4497,6,4,Dormant,2026-03-08
+CUST-5189,First-Time Homebuyer,Bengaluru,Sarjapur Road,2,65,130,Property Expo,PROD-108,29998,7,3,Nurturing,2026-05-01
+CUST-5190,Luxury Upgrader,Bengaluru,HSR Layout,4,220,550,Property Expo,PROD-107,225000,4,1,Active Lead,2026-05-06
+CUST-5191,Luxury Upgrader,Bengaluru,Indiranagar,5,220,550,Organic Search,PROD-105,3999,8,2,Active Lead,2026-05-21
+CUST-5192,First-Time Homebuyer,Bengaluru,HSR Layout,3,65,130,LinkedIn,PROD-102,4998,13,4,Active Lead,2026-01-06
+CUST-5193,First-Time Homebuyer,Bengaluru,Hebbal,2,65,130,Referral,PROD-107,75000,7,2,Active Lead,2026-09-15
+CUST-5194,Local Rental Investor,Bengaluru,Jayanagar,2,75,160,Organic Search,PROD-108,14999,17,6,Active Lead,2026-05-04
+CUST-5195,NRI Investor,Dubai,Marathahalli,4,150,380,Instagram Ads,PROD-101,998,17,0,Active Lead,2026-07-29
+CUST-5196,Channel Partner / Broker,Bengaluru,Indiranagar,2,80,400,Organic Search,PROD-107,75000,15,3,Closed Won,2026-06-12
+CUST-5197,First-Time Homebuyer,Bengaluru,Whitefield,2,65,130,LinkedIn,PROD-103,7999,14,1,Active Lead,2026-01-18
+CUST-5198,Local Rental Investor,Bengaluru,Marathahalli,1,75,160,Referral,PROD-108,29998,2,0,Nurturing,2026-08-27
+CUST-5199,Luxury Upgrader,Bengaluru,Sarjapur Road,5,220,550,Organic Search,PROD-108,44997,7,1,Active Lead,2026-02-10
+CUST-5200,First-Time Homebuyer,Bengaluru,HSR Layout,2,65,130,Referral,PROD-108,14999,7,1,Active Lead,2026-05-16
+CUST-5201,Channel Partner / Broker,Bengaluru,Bellandur,2,80,400,Referral,PROD-104,1499,4,4,Dormant,2026-09-28
+CUST-5202,NRI Investor,Singapore,HSR Layout,3,150,380,Referral,PROD-105,3999,16,2,Dormant,2026-09-06
+CUST-5203,NRI Investor,Singapore,Yelahanka,4,150,380,LinkedIn,PROD-103,23997,17,3,Closed Won,2026-03-05
+CUST-5204,Luxury Upgrader,Bengaluru,Jayanagar,4,220,550,Organic Search,PROD-103,7999,13,5,Closed Won,2026-01-15
+CUST-5205,Luxury Upgrader,Bengaluru,Malleshwaram,4,220,550,Instagram Ads,PROD-106,50000,16,6,Closed Won,2026-09-30
+CUST-5206,First-Time Homebuyer,Bengaluru,Sarjapur Road,2,65,130,LinkedIn,PROD-103,15998,4,6,Closed Won,2026-01-13
+CUST-5207,Local Rental Investor,Bengaluru,Whitefield,1,75,160,Referral,PROD-108,44997,11,3,Nurturing,2026-03-26
+CUST-5208,Local Rental Investor,Bengaluru,Yelahanka,2,75,160,LinkedIn,PROD-103,15998,8,3,Dormant,2026-04-22
+CUST-5209,First-Time Homebuyer,Bengaluru,Jayanagar,3,65,130,Property Expo,PROD-107,75000,17,5,Nurturing,2026-09-20
+CUST-5210,Local Rental Investor,Bengaluru,Yelahanka,2,75,160,Referral,PROD-105,3999,15,6,Active Lead,2026-06-22
+CUST-5211,Luxury Upgrader,Bengaluru,Electronic City,4,220,550,Organic Search,PROD-109,598,13,0,Active Lead,2026-06-29
+CUST-5212,NRI Investor,Dubai,Sarjapur Road,4,150,380,Referral,PROD-111,6499,12,2,Active Lead,2026-04-30
+CUST-5213,Luxury Upgrader,Bengaluru,Marathahalli,4,220,550,Property Expo,PROD-110,11998,12,2,Active Lead,2026-09-19
+CUST-5214,NRI Investor,Dubai,Jayanagar,3,150,380,Property Expo,PROD-105,3999,2,1,Active Lead,2026-10-07
+CUST-5215,First-Time Homebuyer,Bengaluru,Malleshwaram,3,65,130,Instagram Ads,PROD-109,598,14,2,Active Lead,2026-03-22
+CUST-5216,Local Rental Investor,Bengaluru,Yelahanka,2,75,160,LinkedIn,PROD-101,499,3,3,Closed Won,2026-04-15
+CUST-5217,First-Time Homebuyer,Bengaluru,Bellandur,2,65,130,Instagram Ads,PROD-111,12998,5,1,Active Lead,2026-06-04
+CUST-5218,First-Time Homebuyer,Bengaluru,Marathahalli,2,65,130,Property Expo,PROD-110,5999,16,1,Dormant,2026-07-02
+CUST-5219,Channel Partner / Broker,Bengaluru,HSR Layout,2,80,400,Organic Search,PROD-101,1497,5,5,Active Lead,2026-06-07
+CUST-5220,Local Rental Investor,Bengaluru,Yelahanka,2,75,160,LinkedIn,PROD-106,25000,12,5,Closed Won,2026-04-09
+CUST-5221,Luxury Upgrader,Bengaluru,Whitefield,4,220,550,LinkedIn,PROD-106,75000,3,5,Dormant,2026-03-19
+CUST-5222,First-Time Homebuyer,Bengaluru,Koramangala,2,65,130,Referral,PROD-110,17997,9,0,Dormant,2026-02-18
+CUST-5223,NRI Investor,Singapore,Sarjapur Road,3,150,380,Referral,PROD-102,2499,1,6,Closed Won,2026-02-18
+CUST-5224,First-Time Homebuyer,Bengaluru,Whitefield,3,65,130,Instagram Ads,PROD-107,75000,1,0,Closed Won,2026-05-29
+CUST-5225,First-Time Homebuyer,Bengaluru,Bellandur,2,65,130,Instagram Ads,PROD-108,29998,15,3,Nurturing,2026-02-19
+CUST-5226,Channel Partner / Broker,Bengaluru,Bellandur,4,80,400,Instagram Ads,PROD-106,25000,9,5,Closed Won,2026-06-13
+CUST-5227,Channel Partner / Broker,Bengaluru,Indiranagar,3,80,400,Instagram Ads,PROD-110,17997,4,0,Nurturing,2026-06-17
+CUST-5228,NRI Investor,London,Jayanagar,3,150,380,Instagram Ads,PROD-106,75000,6,5,Nurturing,2026-04-30
+CUST-5229,First-Time Homebuyer,Bengaluru,Koramangala,3,65,130,Instagram Ads,PROD-101,499,14,3,Nurturing,2026-05-04
+CUST-5230,First-Time Homebuyer,Bengaluru,Whitefield,2,65,130,LinkedIn,PROD-103,15998,3,5,Active Lead,2026-06-03
+CUST-5231,Luxury Upgrader,Bengaluru,Indiranagar,4,220,550,Organic Search,PROD-110,11998,15,2,Nurturing,2026-08-01
+CUST-5232,Luxury Upgrader,Bengaluru,Yelahanka,5,220,550,Property Expo,PROD-109,299,8,3,Active Lead,2026-03-15
+CUST-5233,First-Time Homebuyer,Bengaluru,Jayanagar,2,65,130,Organic Search,PROD-108,14999,12,0,Active Lead,2026-08-29
+CUST-5234,Channel Partner / Broker,Bengaluru,Indiranagar,4,80,400,LinkedIn,PROD-106,25000,8,6,Dormant,2026-01-20
+CUST-5235,Channel Partner / Broker,Bengaluru,Whitefield,2,80,400,Referral,PROD-102,2499,15,3,Nurturing,2026-02-07
+CUST-5236,NRI Investor,London,Malleshwaram,3,150,380,Property Expo,PROD-109,897,11,6,Active Lead,2026-01-05
+CUST-5237,First-Time Homebuyer,Bengaluru,Marathahalli,2,65,130,LinkedIn,PROD-109,299,2,5,Closed Won,2026-01-26
+CUST-5238,NRI Investor,London,Yelahanka,4,150,380,LinkedIn,PROD-110,17997,6,1,Active Lead,2026-10-10
+CUST-5239,First-Time Homebuyer,Bengaluru,Jayanagar,3,65,130,Organic Search,PROD-109,299,12,6,Active Lead,2026-09-23
+CUST-5240,Luxury Upgrader,Bengaluru,Indiranagar,4,220,550,Property Expo,PROD-106,25000,9,4,Closed Won,2026-05-22
+CUST-5241,First-Time Homebuyer,Bengaluru,Sarjapur Road,3,65,130,LinkedIn,PROD-106,50000,15,0,Active Lead,2026-01-19
+CUST-5242,NRI Investor,San Jose,Indiranagar,4,150,380,LinkedIn,PROD-108,14999,17,5,Active Lead,2026-10-10
+CUST-5243,Channel Partner / Broker,Bengaluru,Jayanagar,4,80,400,LinkedIn,PROD-101,998,11,4,Active Lead,2026-07-05
+CUST-5244,Luxury Upgrader,Bengaluru,Bellandur,4,220,550,Instagram Ads,PROD-110,5999,17,3,Nurturing,2026-01-03
+CUST-5245,Local Rental Investor,Bengaluru,Malleshwaram,2,75,160,LinkedIn,PROD-106,25000,17,3,Active Lead,2026-02-26
+CUST-5246,NRI Investor,San Jose,Bellandur,4,150,380,Property Expo,PROD-105,11997,17,6,Nurturing,2026-06-16
+CUST-5247,First-Time Homebuyer,Bengaluru,Electronic City,2,65,130,Referral,PROD-106,25000,8,6,Nurturing,2026-02-07
+CUST-5248,First-Time Homebuyer,Bengaluru,Electronic City,2,65,130,LinkedIn,PROD-102,4998,12,2,Dormant,2026-08-01
+CUST-5249,First-Time Homebuyer,Bengaluru,Bellandur,3,65,130,Referral,PROD-102,2499,16,5,Closed Won,2026-05-25
+CUST-5250,First-Time Homebuyer,Bengaluru,Indiranagar,2,65,130,Referral,PROD-105,3999,12,2,Active Lead,2026-04-23
