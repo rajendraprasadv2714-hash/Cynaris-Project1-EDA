@@ -1,0 +1,18 @@
+CYNARIS PROJECT 1 - SUBMISSION NOTES
+
+1. Extract this ZIP.
+2. Open a terminal in the extracted folder.
+3. Install packages:
+   python -m pip install -r requirements.txt
+4. Run:
+   python main.py --rows 100000
+5. Wait for the script to finish. It needs internet access to stream the public dataset.
+6. Check Business_Insight_Report.md and outputs/ for the generated results.
+7. Upload the project folder contents to GitHub.
+8. Use the GitHub repository URL in Cynaris Step 1.
+
+Important:
+- The generated report contains actual findings only after main.py has run.
+- Do not submit the report template as if it already contains computed results.
+- The dataset source is an Indian NSE equity-market dataset, which Cynaris lists
+  as a recommended direction. It is not an e-commerce orders dataset.
